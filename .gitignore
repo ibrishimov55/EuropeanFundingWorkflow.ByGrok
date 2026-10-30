@@ -26,6 +26,7 @@ Thumbs.db
 # Data / secrets
 data/*.json
 !data/.gitkeep
+!data/*_matches.json
 *.log
 
 # CSV side outputs of scrapers (regenerate with the scraper)

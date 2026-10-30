@@ -1,0 +1,1014 @@
+{
+  "profile": "Your Company",
+  "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+  "count": 53,
+  "matches": [
+    {
+      "id": "isun_procedures:BG05SFPR001-1.002",
+      "call_identifier": "BG05SFPR001-1.002",
+      "title": "Достъп до образование за всяко дете",
+      "summary": "Максимален обхват на децата и учениците в предучилищното и в училищното образование и намаляване дела на отпадналите и преждевременно напусналите образование.",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/34b5a069-35be-41ec-b72b-f475d9d2c4d6",
+      "status": "open",
+      "start_date": "2025-05-30",
+      "deadline": "2028-07-03",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Образование\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "Максимален обхват на децата и учениците в предучилищното и в училищното образование и намаляване дела на отпадналите и преждевременно напусналите образование."
+    },
+    {
+      "id": "isun_procedures:BG05SFPR001-1.009",
+      "call_identifier": "BG05SFPR001-1.009",
+      "title": "Създаване на условия за достъп до образование чрез преодоляване на демографски, социални и културни бариери (допълващо финансиране на подхода ВОМР)",
+      "summary": "Подкрепа за социално включване на деца и ученици от маргинализираните групи чрез подобряване на достъпа им до качествено образование",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/1437c53d-98a9-46eb-9d52-35872b08acf2",
+      "status": "closed",
+      "start_date": "2026-04-08",
+      "deadline": "2026-07-15",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Образование\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "Подкрепа за социално включване на деца и ученици от маргинализираните групи чрез подобряване на достъпа им до качествено образование"
+    },
+    {
+      "id": "isun_procedures:BG05SFPR001-4.001",
+      "call_identifier": "BG05SFPR001-4.001",
+      "title": "Техническа помощ",
+      "summary": "Техническа помощ",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/005e2518-07ea-410b-8995-cae8ae47f351",
+      "status": "open",
+      "start_date": "2023-08-25",
+      "deadline": "2029-12-31",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Образование\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "Техническа помощ"
+    },
+    {
+      "id": "isun_procedures:BG05SFPR002-1.023",
+      "call_identifier": "BG05SFPR002-1.023",
+      "title": "ПОДКРЕПА ЗА РАЗВИТИЕ НА ПРЕДПРИЯТИЯТА ОТ СОЦИАЛНАТА ИКОНОМИКА- ВОМР",
+      "summary": "ПОДКРЕПА ЗА РАЗВИТИЕ НА ПРЕДПРИЯТИЯТА ОТ СОЦИАЛНАТА ИКОНОМИКА- ВОМР",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/70c75ab7-9772-4da6-a9be-6e0b6380e535",
+      "status": "open",
+      "start_date": "2026-09-18",
+      "deadline": "2026-12-15",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Развитие на човешките ресурси\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "ПОДКРЕПА ЗА РАЗВИТИЕ НА ПРЕДПРИЯТИЯТА ОТ СОЦИАЛНАТА ИКОНОМИКА- ВОМР"
+    },
+    {
+      "id": "isun_procedures:BG05SFPR002-1.024",
+      "call_identifier": "BG05SFPR002-1.024",
+      "title": "Активиране, обучение и заетост на безработни и неактивни лица по подхода ИТИ",
+      "summary": "Активиране, обучение и заетост на безработни и неактивни лица по подхода ИТИ",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/047a60da-6dbb-42f2-95fe-0ca30137ab9c",
+      "status": "open",
+      "start_date": "2025-07-09",
+      "deadline": "2027-12-31",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Развитие на човешките ресурси\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "Активиране, обучение и заетост на безработни и неактивни лица по подхода ИТИ"
+    },
+    {
+      "id": "isun_procedures:BG05SFPR002-1.029",
+      "call_identifier": "BG05SFPR002-1.029",
+      "title": "Подкрепа за активен живот на възрастните хора в пенсионна възраст и остаряване в добро здраве по подхода ИТИ",
+      "summary": "Подкрепа за активен живот на възрастните хора в пенсионна възраст и остаряване в добро здраве по подхода ИТИ",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/74a9db6f-ed37-4350-8c49-31224291511b",
+      "status": "open",
+      "start_date": "2025-08-28",
+      "deadline": "2027-12-31",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Развитие на човешките ресурси\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "Подкрепа за активен живот на възрастните хора в пенсионна възраст и остаряване в добро здраве по подхода ИТИ"
+    },
+    {
+      "id": "isun_procedures:BG05SFPR002-1.030",
+      "call_identifier": "BG05SFPR002-1.030",
+      "title": "РАЗВИТИЕ НА ПРЕДПРИЕМАЧЕСТВОТО И СОЦИАЛНАТА ИКОНОМИКА ПО ПОДХОДА ИТИ",
+      "summary": "РАЗВИТИЕ НА ПРЕДПРИЕМАЧЕСТВОТО И СОЦИАЛНАТА ИКОНОМИКА ПО ПОДХОДА ИТИ",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/5b12ae5a-fbed-4442-adad-0457c4577603",
+      "status": "open",
+      "start_date": "2025-09-24",
+      "deadline": "2027-12-31",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Развитие на човешките ресурси\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "РАЗВИТИЕ НА ПРЕДПРИЕМАЧЕСТВОТО И СОЦИАЛНАТА ИКОНОМИКА ПО ПОДХОДА ИТИ"
+    },
+    {
+      "id": "isun_procedures:BG05SFPR002-1.034",
+      "call_identifier": "BG05SFPR002-1.034",
+      "title": "Подобряване на уменията на заетите и условията на труд в предприятията по подход ИТИ",
+      "summary": "Подобряване на уменията на заетите и условията на труд в предприятията по подход ИТИ",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/3b5a7265-d2ea-47a1-8c99-2c9bf33ef9cb",
+      "status": "open",
+      "start_date": "2025-11-11",
+      "deadline": "2027-12-31",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Развитие на човешките ресурси\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "Подобряване на уменията на заетите и условията на труд в предприятията по подход ИТИ"
+    },
+    {
+      "id": "isun_procedures:BG05SFPR002-1.036",
+      "call_identifier": "BG05SFPR002-1.036",
+      "title": "АКТИВЕН ЖИВОТ НА ВЪЗРАСТНИТЕ ХОРА В ПЕНСИОННА ВЪЗРАСТ И ОСТАРЯВАНЕ В ДОБРО ЗДРАВЕ - ВОМР",
+      "summary": "АКТИВЕН ЖИВОТ НА ВЪЗРАСТНИТЕ ХОРА В ПЕНСИОННА ВЪЗРАСТ И ОСТАРЯВАНЕ В ДОБРО ЗДРАВЕ - ВОМР",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/414016a7-a024-4da2-bcb7-8baa285bcc94",
+      "status": "open",
+      "start_date": "2026-09-18",
+      "deadline": "2026-12-15",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Развитие на човешките ресурси\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "АКТИВЕН ЖИВОТ НА ВЪЗРАСТНИТЕ ХОРА В ПЕНСИОННА ВЪЗРАСТ И ОСТАРЯВАНЕ В ДОБРО ЗДРАВЕ - ВОМР"
+    },
+    {
+      "id": "isun_procedures:BG05SFPR002-2.014",
+      "call_identifier": "BG05SFPR002-2.014",
+      "title": "Подкрепа за деца и семейства по подхода ИТИ",
+      "summary": "Подкрепа за деца и семейства по подхода ИТИ",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/838f89a6-54b5-441e-9275-7f8516f15194",
+      "status": "open",
+      "start_date": "2025-07-04",
+      "deadline": "2027-12-31",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Развитие на човешките ресурси\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "Подкрепа за деца и семейства по подхода ИТИ"
+    },
+    {
+      "id": "isun_procedures:BG05SFPR002-2.015",
+      "call_identifier": "BG05SFPR002-2.015",
+      "title": "\"Интеграция на маргинализирани общности като ромите, достъп до здравеопазване и подкрепа на уязвими групи по подхода ИТИ\"",
+      "summary": "\"Интеграция на маргинализирани общности като ромите, достъп до здравеопазване и подкрепа на уязвими групи по подхода ИТИ\"",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/04c6b817-d144-41b3-bd16-18795b06cf33",
+      "status": "open",
+      "start_date": "2025-09-19",
+      "deadline": "2027-12-31",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Развитие на човешките ресурси\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "\"Интеграция на маргинализирани общности като ромите, достъп до здравеопазване и подкрепа на уязвими групи по подхода ИТИ\""
+    },
+    {
+      "id": "isun_procedures:BG05SFPR002-5.001",
+      "call_identifier": "BG05SFPR002-5.001",
+      "title": "Техническа помощ",
+      "summary": "Техническа помощ",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/79f683b6-f8d5-41b9-9d09-c7601d084be9",
+      "status": "open",
+      "start_date": "2022-09-16",
+      "deadline": "2028-12-01",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Развитие на човешките ресурси\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "Техническа помощ"
+    },
+    {
+      "id": "isun_procedures:BG05SFPR003-2.001",
+      "call_identifier": "BG05SFPR003-2.001",
+      "title": "Техническа помощ",
+      "summary": "Техническа помощ",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/62a019b1-35f4-406c-8969-3aecdc305512",
+      "status": "open",
+      "start_date": "2022-10-17",
+      "deadline": "2028-12-01",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Храни и основно материално подпомагане\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "Техническа помощ"
+    },
+    {
+      "id": "isun_procedures:BG06AFSP001-1.003",
+      "call_identifier": "BG06AFSP001-1.003",
+      "title": "Изпълнение на дейности за сътрудничество и тяхната подготовка по интервенция „Изпълнение на операции, включително дейности за сътрудничество и тяхната подготовка, избрани в рамките на стратегията за местно развитие“ от Стратегическия план за развитие на земеделието и селските райони на Република България за периода 2023 – 2027 г.",
+      "summary": "Изпълнение на дейности за сътрудничество и тяхната подготовка по интервенция „Изпълнение на операции, включително дейности за сътрудничество и тяхната подготовка, избрани в рамките на стратегията за местно развитие“ от Стратегическия план за развитие на земеделието и селските райони на Република България за периода 2023 – 2027 г.",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/aacb04b2-7b42-46c4-9d03-d1a86f0f5f91",
+      "status": "open",
+      "start_date": "2026-09-16",
+      "deadline": "2026-10-31",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Стратегически план за развитие на земеделието и селските райони на Република България - ПОДХОД ВОМР",
+      "countries": [
+        "BG"
+      ],
+      "description": "Изпълнение на дейности за сътрудничество и тяхната подготовка по интервенция „Изпълнение на операции, включително дейности за сътрудничество и тяхната подготовка, избрани в рамките на стратегията за местно развитие“ от Стратегическия план за развитие на земеделието и селските райони на Република България за периода 2023 – 2027 г."
+    },
+    {
+      "id": "isun_procedures:BG14MFPR001-1.001",
+      "call_identifier": "BG14MFPR001-1.001",
+      "title": "Контрол и правоприлагане",
+      "summary": "Контрол и правоприлагане",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/3a07c640-bd54-4a29-ae4a-ce4781ac39a9",
+      "status": "open",
+      "start_date": "2023-12-22",
+      "deadline": "2027-12-31",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма за морско дело, рибарство и аквакултури 2021-2027 г.",
+      "countries": [
+        "BG"
+      ],
+      "description": "Контрол и правоприлагане"
+    },
+    {
+      "id": "isun_procedures:BG14MFPR001-1.002",
+      "call_identifier": "BG14MFPR001-1.002",
+      "title": "Събиране и обработване на данни за управление на рибарството и аквакултурите и за научни цели",
+      "summary": "Събиране и обработване на данни за управление на рибарството и аквакултурите и за научни цели",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/55a6a1dd-f15d-429e-852d-e93cd9b37f9f",
+      "status": "open",
+      "start_date": "2024-01-18",
+      "deadline": "2029-11-30",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма за морско дело, рибарство и аквакултури 2021-2027 г.",
+      "countries": [
+        "BG"
+      ],
+      "description": "Събиране и обработване на данни за управление на рибарството и аквакултурите и за научни цели"
+    },
+    {
+      "id": "isun_procedures:BG14MFPR001-1.012",
+      "call_identifier": "BG14MFPR001-1.012",
+      "title": "Специфично оборудване на риболовния кораб, дейности и иновации, целящи опазването на околната среда и на биоразнообразието",
+      "summary": "Специфично оборудване на риболовния кораб, дейности и иновации, целящи опазването на околната среда и на биоразнообразието",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/1007fb47-81e2-485d-af52-b7525f4817cf",
+      "status": "open",
+      "start_date": "2026-10-02",
+      "deadline": "2026-12-31",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма за морско дело, рибарство и аквакултури 2021-2027 г.",
+      "countries": [
+        "BG"
+      ],
+      "description": "Специфично оборудване на риболовния кораб, дейности и иновации, целящи опазването на околната среда и на биоразнообразието"
+    },
+    {
+      "id": "isun_procedures:BG14MFPR001-2.009",
+      "call_identifier": "BG14MFPR001-2.009",
+      "title": "Продуктивни инвестиции и иновации в аквакултурите",
+      "summary": "Продуктивни инвестиции и иновации в аквакултурите",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/a17b19a8-d7b5-47a3-813d-9ec86a58061c",
+      "status": "closed",
+      "start_date": "2026-07-02",
+      "deadline": "2026-10-01",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма за морско дело, рибарство и аквакултури 2021-2027 г.",
+      "countries": [
+        "BG"
+      ],
+      "description": "Продуктивни инвестиции и иновации в аквакултурите"
+    },
+    {
+      "id": "isun_procedures:BG14MFPR001-2.013",
+      "call_identifier": "BG14MFPR001-2.013",
+      "title": "Планове за производство и предлагане на пазара",
+      "summary": "Планове за производство и предлагане на пазара",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/802b80c4-07a3-4648-97d3-f5d5ed979b42",
+      "status": "closed",
+      "start_date": "2026-07-02",
+      "deadline": "2026-10-08",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма за морско дело, рибарство и аквакултури 2021-2027 г.",
+      "countries": [
+        "BG"
+      ],
+      "description": "Планове за производство и предлагане на пазара"
+    },
+    {
+      "id": "isun_procedures:BG14MFPR001-2.014",
+      "call_identifier": "BG14MFPR001-2.014",
+      "title": "Аквакултури, предоставящи екологични услуги -„Непродуктивни инвестиции в стопанствата, свързани с прилагане на преки консервационни действия за ограничаване на конфликта между рибоядните видове и аквакултурите“",
+      "summary": "Аквакултури, предоставящи екологични услуги -„Непродуктивни инвестиции в стопанствата, свързани с прилагане на преки консервационни действия за ограничаване на конфликта между рибоядните видове и аквакултурите“",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/c80c479d-cc7a-4c61-b3c5-752ea5e8f1b7",
+      "status": "open",
+      "start_date": "2026-08-31",
+      "deadline": "2026-12-01",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма за морско дело, рибарство и аквакултури 2021-2027 г.",
+      "countries": [
+        "BG"
+      ],
+      "description": "Аквакултури, предоставящи екологични услуги -„Непродуктивни инвестиции в стопанствата, свързани с прилагане на преки консервационни действия за ограничаване на конфликта между рибоядните видове и аквакултурите“"
+    },
+    {
+      "id": "isun_procedures:BG14MFPR001-2.015",
+      "call_identifier": "BG14MFPR001-2.015",
+      "title": "\"Предлагане на пазара - компенсации - подсектор \"Риболов\"",
+      "summary": "\"Предлагане на пазара - компенсации - подсектор \"Риболов\"",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/0cbfcb31-af33-4ccb-8a0a-a7f4208296b9",
+      "status": "closed",
+      "start_date": "2026-09-18",
+      "deadline": "2026-10-18",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма за морско дело, рибарство и аквакултури 2021-2027 г.",
+      "countries": [
+        "BG"
+      ],
+      "description": "\"Предлагане на пазара - компенсации - подсектор \"Риболов\""
+    },
+    {
+      "id": "isun_procedures:BG14MFPR001-2.016",
+      "call_identifier": "BG14MFPR001-2.016",
+      "title": "„Предлагане на пазара – компенсации - подсектор „Аквакултури\"",
+      "summary": "„Предлагане на пазара – компенсации - подсектор „Аквакултури\"",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/a7cc4771-8820-4b62-a188-40b4cc443aa8",
+      "status": "closed",
+      "start_date": "2026-09-18",
+      "deadline": "2026-10-18",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма за морско дело, рибарство и аквакултури 2021-2027 г.",
+      "countries": [
+        "BG"
+      ],
+      "description": "„Предлагане на пазара – компенсации - подсектор „Аквакултури\""
+    },
+    {
+      "id": "isun_procedures:BG14MFPR001-2.017",
+      "call_identifier": "BG14MFPR001-2.017",
+      "title": "„Предлагане на пазара – компенсации - подсектор „Преработка на продукти от риболов и аквакултури“",
+      "summary": "„Предлагане на пазара – компенсации - подсектор „Преработка на продукти от риболов и аквакултури“",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/785eaeb6-6137-4e0d-b6d3-a0efcb4970ee",
+      "status": "closed",
+      "start_date": "2026-09-18",
+      "deadline": "2026-10-18",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма за морско дело, рибарство и аквакултури 2021-2027 г.",
+      "countries": [
+        "BG"
+      ],
+      "description": "„Предлагане на пазара – компенсации - подсектор „Преработка на продукти от риболов и аквакултури“"
+    },
+    {
+      "id": "isun_procedures:BG14MFPR001-4.001",
+      "call_identifier": "BG14MFPR001-4.001",
+      "title": "Морско наблюдение",
+      "summary": "Морско наблюдение",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/4869f9d3-70f2-4f91-9505-2bcdb60eced2",
+      "status": "open",
+      "start_date": "2024-10-10",
+      "deadline": "2027-12-31",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма за морско дело, рибарство и аквакултури 2021-2027 г.",
+      "countries": [
+        "BG"
+      ],
+      "description": "Морско наблюдение"
+    },
+    {
+      "id": "isun_procedures:BG14MFPR001-5.001",
+      "call_identifier": "BG14MFPR001-5.001",
+      "title": "Техническа помощ",
+      "summary": "Техническа помощ",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/f3b9dd30-997c-442a-a12c-aad046500f0e",
+      "status": "open",
+      "start_date": "2024-01-01",
+      "deadline": "2029-12-01",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма за морско дело, рибарство и аквакултури 2021-2027 г.",
+      "countries": [
+        "BG"
+      ],
+      "description": "Техническа помощ"
+    },
+    {
+      "id": "isun_procedures:BG16FFPR001-1.001",
+      "call_identifier": "BG16FFPR001-1.001",
+      "title": "Развитие на железопътната инфраструктура по „основната“ и „широкообхватната“ Трансевропейска транспортна мрежа – Инвестиционни проекти",
+      "summary": "Развитие на железопътната инфраструктура по „основната“ и „широкообхватната“ Трансевропейска транспортна мрежа – Инвестиционни проекти",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/7b2df40c-ad89-4f7c-b688-8ab3b9300dad",
+      "status": "open",
+      "start_date": "2023-06-19",
+      "deadline": "2029-10-31",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Транспортна свързаност\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "Развитие на железопътната инфраструктура по „основната“ и „широкообхватната“ Трансевропейска транспортна мрежа – Инвестиционни проекти"
+    },
+    {
+      "id": "isun_procedures:BG16FFPR001-1.002",
+      "call_identifier": "BG16FFPR001-1.002",
+      "title": "Развитие на железопътната инфраструктура по „основната“ и „широкообхватната“ Трансевропейска транспортна мрежа – Техническа помощ",
+      "summary": "Развитие на железопътната инфраструктура по „основната“ и „широкообхватната“ Трансевропейска транспортна мрежа – Техническа помощ",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/95a86aa3-fd00-46ea-82a0-c8f88781c178",
+      "status": "open",
+      "start_date": "2023-06-19",
+      "deadline": "2029-10-31",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Транспортна свързаност\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "Развитие на железопътната инфраструктура по „основната“ и „широкообхватната“ Трансевропейска транспортна мрежа – Техническа помощ"
+    },
+    {
+      "id": "isun_procedures:BG16FFPR001-2.001",
+      "call_identifier": "BG16FFPR001-2.001",
+      "title": "Развитие на пътната инфраструктура по „основната“ Трансевропейска транспортна мрежа и пътни връзки – Инвестиционни проекти",
+      "summary": "Развитие на пътната инфраструктура по „основната“ Трансевропейска транспортна мрежа и пътни връзки – Инвестиционни проекти",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/d976f16f-d6b2-4ec9-801c-934d3e48837e",
+      "status": "open",
+      "start_date": "2023-06-19",
+      "deadline": "2029-10-31",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Транспортна свързаност\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "Развитие на пътната инфраструктура по „основната“ Трансевропейска транспортна мрежа и пътни връзки – Инвестиционни проекти"
+    },
+    {
+      "id": "isun_procedures:BG16FFPR001-2.002",
+      "call_identifier": "BG16FFPR001-2.002",
+      "title": "Развитие на пътната инфраструктура по „основната“ Трансевропейска транспортна мрежа и пътни връзки – Техническа помощ”",
+      "summary": "Развитие на пътната инфраструктура по „основната“ Трансевропейска транспортна мрежа и пътни връзки – Техническа помощ”",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/08760928-510f-4e5f-ae4c-643a3ebc6120",
+      "status": "open",
+      "start_date": "2023-06-19",
+      "deadline": "2029-10-31",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Транспортна свързаност\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "Развитие на пътната инфраструктура по „основната“ Трансевропейска транспортна мрежа и пътни връзки – Техническа помощ”"
+    },
+    {
+      "id": "isun_procedures:BG16FFPR001-3.001",
+      "call_identifier": "BG16FFPR001-3.001",
+      "title": "„Подобряване на интермодалността, иновации, модернизирани системи за управление на трафика, подобряване на сигурността и безопасността на транспорта“",
+      "summary": "„Подобряване на интермодалността, иновации, модернизирани системи за управление на трафика, подобряване на сигурността и безопасността на транспорта“",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/ae735e49-fbb5-486f-a59f-5aad433065b5",
+      "status": "open",
+      "start_date": "2023-08-31",
+      "deadline": "2029-10-31",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Транспортна свързаност\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "„Подобряване на интермодалността, иновации, модернизирани системи за управление на трафика, подобряване на сигурността и безопасността на транспорта“"
+    },
+    {
+      "id": "isun_procedures:BG16FFPR001-3.006",
+      "call_identifier": "BG16FFPR001-3.006",
+      "title": "\"Подпомагане на интермодални оператори, включително развитие на съществуващи терминали - втора“",
+      "summary": "\"Подпомагане на интермодални оператори, включително развитие на съществуващи терминали - втора“",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/e0ef7c16-5ac6-49eb-b17b-a03dff27a8c5",
+      "status": "open",
+      "start_date": "2026-07-21",
+      "deadline": "2027-01-21",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Транспортна свързаност\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "\"Подпомагане на интермодални оператори, включително развитие на съществуващи терминали - втора“"
+    },
+    {
+      "id": "isun_procedures:BG16FFPR001-4.001",
+      "call_identifier": "BG16FFPR001-4.001",
+      "title": "Интермодалност в градски условия",
+      "summary": "Интермодалност в градски условия",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/490fb2d1-ca2d-4124-a405-7ddfc47b63f8",
+      "status": "open",
+      "start_date": "2023-06-19",
+      "deadline": "2029-10-31",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Транспортна свързаност\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "Интермодалност в градски условия"
+    },
+    {
+      "id": "isun_procedures:BG16FFPR001-5.001",
+      "call_identifier": "BG16FFPR001-5.001",
+      "title": "Техническа помощ",
+      "summary": "Техническа помощ",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/f020f0ca-9b79-4ee4-b4a0-6d0957fc1c63",
+      "status": "open",
+      "start_date": "2023-06-19",
+      "deadline": "2029-10-31",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Транспортна свързаност\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "Техническа помощ"
+    },
+    {
+      "id": "isun_procedures:BG16FFPR001-5.002",
+      "call_identifier": "BG16FFPR001-5.002",
+      "title": "Бюджетни линии",
+      "summary": "Бюджетни линии",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/5a2665c3-a983-4647-afd2-f256c521fcd9",
+      "status": "open",
+      "start_date": "2023-06-19",
+      "deadline": "2029-10-31",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Транспортна свързаност\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "Бюджетни линии"
+    },
+    {
+      "id": "isun_procedures:BG16FFPR002-2.005",
+      "call_identifier": "BG16FFPR002-2.005",
+      "title": "Рекултивация на регионални депа / клетки на регионални депа за битови отпадъци - втора",
+      "summary": "Рекултивация на регионални депа / клетки на регионални депа за битови отпадъци - втора",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/adf88a35-55df-4591-a13d-3bacc00f8ae0",
+      "status": "closed",
+      "start_date": "2024-07-10",
+      "deadline": "2024-10-31",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Околна среда\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "Рекултивация на регионални депа / клетки на регионални депа за битови отпадъци - втора"
+    },
+    {
+      "id": "isun_procedures:BG16FFPR002-3.019",
+      "call_identifier": "BG16FFPR002-3.019",
+      "title": "Изпълнение на мерки 26, 29, 33 и 60 от Националната рамка за приоритетни действия за Натура 2000",
+      "summary": "Изпълнение на мерки 26, 29, 33 и 60 от Националната рамка за приоритетни действия за Натура 2000",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/37cc65e6-1cff-4604-9eed-8f31446bbd10",
+      "status": "open",
+      "start_date": "2026-10-07",
+      "deadline": "2027-01-04",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Околна среда\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "Изпълнение на мерки 26, 29, 33 и 60 от Националната рамка за приоритетни действия за Натура 2000"
+    },
+    {
+      "id": "isun_procedures:BG16FFPR002-4.009",
+      "call_identifier": "BG16FFPR002-4.009",
+      "title": "Мерки за превенция и защита при неблагоприятни геодинамични процеси – свлачища, срутища, ерозии, абразии - 2",
+      "summary": "Мерки за превенция и защита при неблагоприятни геодинамични процеси – свлачища, срутища, ерозии, абразии - 2",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/a956d8f0-0d53-4c5a-933a-6d6c2f39d4b7",
+      "status": "open",
+      "start_date": "2026-07-30",
+      "deadline": "2027-01-25",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Околна среда\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "Мерки за превенция и защита при неблагоприятни геодинамични процеси – свлачища, срутища, ерозии, абразии - 2"
+    },
+    {
+      "id": "isun_procedures:BG16FFPR002-5.013",
+      "call_identifier": "BG16FFPR002-5.013",
+      "title": "Актуализация на политиките и националната нормативна рамка за подобряване на качеството на въздуха",
+      "summary": "Актуализация на политиките и националната нормативна рамка за подобряване на качеството на въздуха",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/9a1210fb-84d1-44e2-bb6e-9d9f83d942c4",
+      "status": "open",
+      "start_date": "2026-09-24",
+      "deadline": "2027-01-04",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Околна среда\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "Актуализация на политиките и националната нормативна рамка за подобряване на качеството на въздуха"
+    },
+    {
+      "id": "isun_procedures:BG16FFPR002-6.001",
+      "call_identifier": "BG16FFPR002-6.001",
+      "title": "Техническа помощ за управление и изпълнение на Програма \"Околна среда\" за периода 2021 – 2027 г.",
+      "summary": "Техническа помощ за управление и изпълнение на Програма \"Околна среда\" за периода 2021 – 2027 г.",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/1e405dbe-0890-49fb-bdfa-8caae8b56596",
+      "status": "open",
+      "start_date": "2023-09-04",
+      "deadline": "2029-09-30",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Околна среда\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "Техническа помощ за управление и изпълнение на Програма \"Околна среда\" за периода 2021 – 2027 г."
+    },
+    {
+      "id": "isun_procedures:BG16FFPR003-1.004",
+      "call_identifier": "BG16FFPR003-1.004",
+      "title": "Подкрепа за интегриран градски транспорт и устойчива градска мобилност на Столична община",
+      "summary": "Подкрепа за интегриран градски транспорт и устойчива градска мобилност на Столична община",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/15f1ce8e-0ff6-423a-80a4-7d4ca8d8d28a",
+      "status": "open",
+      "start_date": "2026-09-30",
+      "deadline": "2026-12-30",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Развитие на регионите\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "Подкрепа за интегриран градски транспорт и устойчива градска мобилност на Столична община"
+    },
+    {
+      "id": "isun_procedures:BG16FFPR003-4.017",
+      "call_identifier": "BG16FFPR003-4.017",
+      "title": "Регионален център за устойчиви производства и логистична интеграция",
+      "summary": "Регионален център за устойчиви производства и логистична интеграция",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/ccafee7e-b163-4f2d-a776-a947253a2655",
+      "status": "open",
+      "start_date": "2026-08-10",
+      "deadline": "2026-11-10",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Развитие на регионите\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "Регионален център за устойчиви производства и логистична интеграция"
+    },
+    {
+      "id": "isun_procedures:BG16RFPR001-2.003",
+      "call_identifier": "BG16RFPR001-2.003",
+      "title": "Въвеждане на зелени технологии в МСП",
+      "summary": "Въвеждане на зелени технологии в МСП",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/5023bcbb-36a8-441e-91ff-b92abdb79b9f",
+      "status": "open",
+      "start_date": "2026-08-11",
+      "deadline": "2026-11-10",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Конкурентоспособност и иновации в предприятията\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "Въвеждане на зелени технологии в МСП"
+    },
+    {
+      "id": "isun_procedures:BG16RFPR001-3.001",
+      "call_identifier": "BG16RFPR001-3.001",
+      "title": "„Осигуряване на техническа помощ за успешното изпълнение на програма „Конкурентоспособност и иновации в предприятията“ за периода 2021-2027 г.“",
+      "summary": "„Осигуряване на техническа помощ за успешното изпълнение на програма „Конкурентоспособност и иновации в предприятията“ за периода 2021-2027 г.“",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/e74e961a-e3a8-4b83-81af-2396950881a1",
+      "status": "open",
+      "start_date": "2023-01-06",
+      "deadline": "2028-12-31",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Конкурентоспособност и иновации в предприятията\" 2021-2027",
+      "countries": [
+        "BG"
+      ],
+      "description": "„Осигуряване на техническа помощ за успешното изпълнение на програма „Конкурентоспособност и иновации в предприятията“ за периода 2021-2027 г.“"
+    },
+    {
+      "id": "isun_procedures:BG16RFPR002-1.011",
+      "call_identifier": "BG16RFPR002-1.011",
+      "title": "Участие на български организации в институционализирани европейски партньорства",
+      "summary": "Участие на български организации в институционализирани европейски партньорства",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/1184b35f-3a2e-48c8-9b83-64e104cca917",
+      "status": "closed",
+      "start_date": "2026-05-05",
+      "deadline": "2026-06-15",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Научни изследвания, иновации и дигитализация за интелигентна трансформация\"",
+      "countries": [
+        "BG"
+      ],
+      "description": "Участие на български организации в институционализирани европейски партньорства"
+    },
+    {
+      "id": "isun_procedures:BG16RFPR002-1.020",
+      "call_identifier": "BG16RFPR002-1.020",
+      "title": "Допълващо финансиране на одобрени от Европейската комисия проекти по програма „Цифрова Европа“",
+      "summary": "Допълващо финансиране на одобрени от Европейската комисия проекти по програма „Цифрова Европа“",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/2a2c20e0-3fe1-4b04-a3a1-a1fae183e2f8",
+      "status": "closed",
+      "start_date": "2026-01-15",
+      "deadline": "2026-03-16",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Научни изследвания, иновации и дигитализация за интелигентна трансформация\"",
+      "countries": [
+        "BG"
+      ],
+      "description": "Допълващо финансиране на одобрени от Европейската комисия проекти по програма „Цифрова Европа“"
+    },
+    {
+      "id": "isun_procedures:BG16RFPR002-1.028",
+      "call_identifier": "BG16RFPR002-1.028",
+      "title": "Подкрепа за българска научна организация, отличена с „Печат за високи постижения“ Teaming for Excellence – 2",
+      "summary": "Подкрепа за българска научна организация, отличена с „Печат за високи постижения“ Teaming for Excellence – 2",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/4715bef6-cff8-4c85-a5af-fe2249ac7cbe",
+      "status": "open",
+      "start_date": "2026-07-29",
+      "deadline": "2026-11-02",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Научни изследвания, иновации и дигитализация за интелигентна трансформация\"",
+      "countries": [
+        "BG"
+      ],
+      "description": "Подкрепа за българска научна организация, отличена с „Печат за високи постижения“ Teaming for Excellence – 2"
+    },
+    {
+      "id": "isun_procedures:BG16RFPR002-3.001",
+      "call_identifier": "BG16RFPR002-3.001",
+      "title": "Осигуряване на техническа помощ за успешното изпълнение на ПНИИДИТ",
+      "summary": "Осигуряване на техническа помощ за успешното изпълнение на ПНИИДИТ",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/3ab44794-4ffa-4519-81f1-c3374460bdd1",
+      "status": "open",
+      "start_date": "2023-11-13",
+      "deadline": "2028-12-31",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма \"Научни изследвания, иновации и дигитализация за интелигентна трансформация\"",
+      "countries": [
+        "BG"
+      ],
+      "description": "Осигуряване на техническа помощ за успешното изпълнение на ПНИИДИТ"
+    },
+    {
+      "id": "isun_procedures:BG65AMPR001-1.005",
+      "call_identifier": "BG65AMPR001-1.005",
+      "title": "Процедура №1 Специфична цел 1 „Обща Европейска система за убежище“ Специфична цел 2 „Законна миграция и интеграция“",
+      "summary": "Процедура №1 Специфична цел 1 „Обща Европейска система за убежище“ Специфична цел 2 „Законна миграция и интеграция“",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/2f5d32bd-13a9-4497-a0cb-61fea65f3cd1",
+      "status": "closed",
+      "start_date": "2026-03-30",
+      "deadline": "2026-05-08",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма на Република България по фонд „Убежище, миграция и интеграция“",
+      "countries": [
+        "BG"
+      ],
+      "description": "Процедура №1 Специфична цел 1 „Обща Европейска система за убежище“ Специфична цел 2 „Законна миграция и интеграция“"
+    },
+    {
+      "id": "isun_procedures:BG65AMPR001-1.006",
+      "call_identifier": "BG65AMPR001-1.006",
+      "title": "Процедура №2 „Специфична цел 1 „Обща европейска система за убежище“ и Специфична цел 3 \"Връщане\"",
+      "summary": "Процедура №2 „Специфична цел 1 „Обща европейска система за убежище“ и Специфична цел 3 \"Връщане\"",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/aab2f9c6-fb6f-46e4-b267-d1cf30109b77",
+      "status": "open",
+      "start_date": "2026-10-02",
+      "deadline": "2026-11-27",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма на Република България по фонд „Убежище, миграция и интеграция“",
+      "countries": [
+        "BG"
+      ],
+      "description": "Процедура №2 „Специфична цел 1 „Обща европейска система за убежище“ и Специфична цел 3 \"Връщане\""
+    },
+    {
+      "id": "isun_procedures:BG65AMPR001-4.004",
+      "call_identifier": "BG65AMPR001-4.004",
+      "title": "Процедура № 4, Специфична цел 4 „Солидарност“",
+      "summary": "Процедура № 4, Специфична цел 4 „Солидарност“",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/e6e406b1-1175-47b1-81c3-59a38e0f82a8",
+      "status": "open",
+      "start_date": "2026-10-02",
+      "deadline": "2026-11-02",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма на Република България по фонд „Убежище, миграция и интеграция“",
+      "countries": [
+        "BG"
+      ],
+      "description": "Процедура № 4, Специфична цел 4 „Солидарност“"
+    },
+    {
+      "id": "isun_procedures:BG65AMPR001-4.005",
+      "call_identifier": "BG65AMPR001-4.005",
+      "title": "Процедура № 5, Специфична цел 4 „Солидарност“",
+      "summary": "Процедура № 5, Специфична цел 4 „Солидарност“",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/fa86bbdc-9ed8-4608-920a-2c53ea413e61",
+      "status": "open",
+      "start_date": "2026-10-02",
+      "deadline": "2026-11-02",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма на Република България по фонд „Убежище, миграция и интеграция“",
+      "countries": [
+        "BG"
+      ],
+      "description": "Процедура № 5, Специфична цел 4 „Солидарност“"
+    },
+    {
+      "id": "isun_procedures:BG65BVPR001-1.010",
+      "call_identifier": "BG65BVPR001-1.010",
+      "title": "Процедура № 2, Специфична цел 1 „Европейско интегрирано управление на границите“",
+      "summary": "Процедура № 2, Специфична цел 1 „Европейско интегрирано управление на границите“",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/cfbaa885-c0f5-431a-9e0c-f43219f03273",
+      "status": "closed",
+      "start_date": "2025-11-25",
+      "deadline": "2026-01-23",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма на Република България по Инструмента за финансова подкрепа за управлението на границите и визовата политика",
+      "countries": [
+        "BG"
+      ],
+      "description": "Процедура № 2, Специфична цел 1 „Европейско интегрирано управление на границите“"
+    },
+    {
+      "id": "isun_procedures:BG65BVPR001-1.012",
+      "call_identifier": "BG65BVPR001-1.012",
+      "title": "Процедура № 2, Специфична цел 1 „Европейско интегрирано управление на границите“ и специфична цел 2 \"Обща визова политика\"",
+      "summary": "Процедура № 2, Специфична цел 1 „Европейско интегрирано управление на границите“ и специфична цел 2 \"Обща визова политика\"",
+      "url": "https://eumis2020.government.bg/bg/s/Procedure/Info/f7ad23e5-9870-4f64-990e-94c53035723f",
+      "status": "closed",
+      "start_date": "2026-07-24",
+      "deadline": "2026-08-24",
+      "source": "isun_procedures",
+      "scraped_at": "2026-10-30T14:25:44.569102+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Програма на Република България по Инструмента за финансова подкрепа за управлението на границите и визовата политика",
+      "countries": [
+        "BG"
+      ],
+      "description": "Процедура № 2, Специфична цел 1 „Европейско интегрирано управление на границите“ и специфична цел 2 \"Обща визова политика\""
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "profile": "Your Company",
+  "scraped_at": "2026-10-30T14:25:42.951539+00:00",
+  "count": 21,
+  "matches": [
+    {
+      "id": "fmfib:kriegova-ikonomika-etap-2",
+      "call_identifier": "kriegova-ikonomika-etap-2",
+      "title": "Кръгова икономика - Избор на посредник",
+      "summary": "Активен финансов инструмент на Фонда на фондовете: Кръгова икономика - Избор на посредник",
+      "url": "https://fmfib.bg/instrument/kriegova-ikonomika-etap-2",
+      "status": "open",
+      "start_date": null,
+      "deadline": null,
+      "source": "fmfib",
+      "scraped_at": "2026-10-30T14:25:42.951539+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Фонд на фондовете (Fund of Funds)",
+      "countries": [
+        "BG"
+      ],
+      "description": "Активен финансов инструмент на Фонда на фондовете: Кръгова икономика - Избор на посредник"
+    },
+    {
+      "id": "fmfib:kriegova-ikonomika",
+      "call_identifier": "kriegova-ikonomika",
+      "title": "Кръгова икономика - етап Финансиране",
+      "summary": "Активен финансов инструмент на Фонда на фондовете: Кръгова икономика - етап Финансиране",
+      "url": "https://fmfib.bg/instrument/kriegova-ikonomika",
+      "status": "open",
+      "start_date": null,
+      "deadline": null,
+      "source": "fmfib",
+      "scraped_at": "2026-10-30T14:25:42.951539+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Фонд на фондовете (Fund of Funds)",
+      "countries": [
+        "BG"
+      ],
+      "description": "Активен финансов инструмент на Фонда на фондовете: Кръгова икономика - етап Финансиране"
+    },
+    {
+      "id": "fmfib:fond-za-gradsko-razvitie-2021-2027",
+      "call_identifier": "fond-za-gradsko-razvitie-2021-2027",
+      "title": "Фонд за градско развитие 2021-2027",
+      "summary": "Активен финансов инструмент на Фонда на фондовете: Фонд за градско развитие 2021-2027",
+      "url": "https://fmfib.bg/instrument/fond-za-gradsko-razvitie-2021-2027",
+      "status": "open",
+      "start_date": null,
+      "deadline": null,
+      "source": "fmfib",
+      "scraped_at": "2026-10-30T14:25:42.951539+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Фонд на фондовете (Fund of Funds)",
+      "countries": [
+        "BG"
+      ],
+      "description": "Активен финансов инструмент на Фонда на фондовете: Фонд за градско развитие 2021-2027"
+    },
+    {
+      "id": "fmfib:finansov-instrument-strategiceski-investicii",
+      "call_identifier": "finansov-instrument-strategiceski-investicii",
+      "title": "Финансов инструмент за стратегически инвестиции",
+      "summary": "Активен финансов инструмент на Фонда на фондовете: Финансов инструмент за стратегически инвестиции",
+      "url": "https://fmfib.bg/instrument/finansov-instrument-strategiceski-investicii",
+      "status": "open",
+      "start_date": null,
+      "deadline": null,
+      "source": "fmfib",
+      "scraped_at": "2026-10-30T14:25:42.951539+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Фонд на фондовете (Fund of Funds)",
+      "countries": [
+        "BG"
+      ],
+      "description": "Активен финансов инструмент на Фонда на фондовете: Финансов инструмент за стратегически инвестиции"
+    },
+    {
+      "id": "fmfib:digitalizaciia-po-pkip-2021-2027",
+      "call_identifier": "digitalizaciia-po-pkip-2021-2027",
+      "title": "Портфейлна гаранция с таван на загубите за дигитализация",
+      "summary": "Активен финансов инструмент на Фонда на фондовете: Портфейлна гаранция с таван на загубите за дигитализация",
+      "url": "https://fmfib.bg/instrument/digitalizaciia-po-pkip-2021-2027",
+      "status": "open",
+      "start_date": null,
+      "deadline": null,
+      "source": "fmfib",
+      "scraped_at": "2026-10-30T14:25:42.951539+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Фонд на фондовете (Fund of Funds)",
+      "countries": [
+        "BG"
+      ],
+      "description": "Активен финансов инструмент на Фонда на фондовете: Портфейлна гаранция с таван на загубите за дигитализация"
+    },
+    {
+      "id": "fmfib:mikrokreditirane-za-predpriemacestvo-na-studenti-i-doktoranti",
+      "call_identifier": "mikrokreditirane-za-predpriemacestvo-na-studenti-i-doktoranti",
+      "title": "Микрофинансиране за предприемачество на студенти и докторанти",
+      "summary": "Активен финансов инструмент на Фонда на фондовете: Микрофинансиране за предприемачество на студенти и докторанти",
+      "url": "https://fmfib.bg/instrument/mikrokreditirane-za-predpriemacestvo-na-studenti-i-doktoranti",
+      "status": "open",
+      "start_date": null,
+      "deadline": null,
+      "source": "fmfib",
+      "scraped_at": "2026-10-30T14:25:42.951539+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Фонд на фондовете (Fund of Funds)",
+      "countries": [
+        "BG"
+      ],
+      "description": "Активен финансов инструмент на Фонда на фондовете: Микрофинансиране за предприемачество на студенти и докторанти"
+    },
+    {
+      "id": "fmfib:dielgov-fi-za-sektor-vodi-2021-2027",
+      "call_identifier": "dielgov-fi-za-sektor-vodi-2021-2027",
+      "title": "Дългов ФИ за сектор \"Води\"",
+      "summary": "Активен финансов инструмент на Фонда на фондовете: Дългов ФИ за сектор \"Води\"",
+      "url": "https://fmfib.bg/instrument/dielgov-fi-za-sektor-vodi-2021-2027",
+      "status": "open",
+      "start_date": null,
+      "deadline": null,
+      "source": "fmfib",
+      "scraped_at": "2026-10-30T14:25:42.951539+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Фонд на фондовете (Fund of Funds)",
+      "countries": [
+        "BG"
+      ],
+      "description": "Активен финансов инструмент на Фонда на фондовете: Дългов ФИ за сектор \"Води\""
+    },
+    {
+      "id": "fmfib:dalgov-fi-za-sektor-otpadaci-2021-2027",
+      "call_identifier": "dalgov-fi-za-sektor-otpadaci-2021-2027",
+      "title": "Управление на отпадъци",
+      "summary": "Активен финансов инструмент на Фонда на фондовете: Управление на отпадъци",
+      "url": "https://fmfib.bg/instrument/dalgov-fi-za-sektor-otpadaci-2021-2027",
+      "status": "open",
+      "start_date": null,
+      "deadline": null,
+      "source": "fmfib",
+      "scraped_at": "2026-10-30T14:25:42.951539+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Фонд на фондовете (Fund of Funds)",
+      "countries": [
+        "BG"
+      ],
+      "description": "Активен финансов инструмент на Фонда на фондовете: Управление на отпадъци"
+    },
+    {
+      "id": "fmfib:finansirane-sies-spodeliane-na-riska-garancionen-instrument-po-pmdra-1",
+      "call_identifier": "finansirane-sies-spodeliane-na-riska-garancionen-instrument-po-pmdra-1",
+      "title": "Финансов инструмент \"Подкрепа на рибарството и аквакултурите\"",
+      "summary": "Активен финансов инструмент на Фонда на фондовете: Финансов инструмент \"Подкрепа на рибарството и аквакултурите\"",
+      "url": "https://fmfib.bg/instrument/finansirane-sies-spodeliane-na-riska-garancionen-instrument-po-pmdra-1",
+      "status": "open",
+      "start_date": null,
+      "deadline": null,
+      "source": "fmfib",
+      "scraped_at": "2026-10-30T14:25:42.951539+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Фонд на фондовете (Fund of Funds)",
+      "countries": [
+        "BG"
+      ],
+      "description": "Активен финансов инструмент на Фонда на фондовете: Финансов инструмент \"Подкрепа на рибарството и аквакултурите\""
+    },
+    {
+      "id": "fmfib:dalgov-finansov-instrument-po-programa-razvitie-na-choveskite-resursi",
+      "call_identifier": "dalgov-finansov-instrument-po-programa-razvitie-na-choveskite-resursi",
+      "title": "Микрофинансиране за стартиране на бизнес и заетост",
+      "summary": "Активен финансов инструмент на Фонда на фондовете: Микрофинансиране за стартиране на бизнес и заетост",
+      "url": "https://fmfib.bg/instrument/dalgov-finansov-instrument-po-programa-razvitie-na-choveskite-resursi",
+      "status": "open",
+      "start_date": null,
+      "deadline": null,
+      "source": "fmfib",
+      "scraped_at": "2026-10-30T14:25:42.951539+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Фонд на фондовете (Fund of Funds)",
+      "countries": [
+        "BG"
+      ],
+      "description": "Активен финансов инструмент на Фонда на фондовете: Микрофинансиране за стартиране на бизнес и заетост"
+    },
+    {
+      "id": "fmfib:mikrokrediti-sies-spodelen-risk",
+      "call_identifier": "mikrokrediti-sies-spodelen-risk",
+      "title": "Микрокрeдити със сподeлeн риск",
+      "summary": "Активен финансов инструмент на Фонда на фондовете: Микрокрeдити със сподeлeн риск",
+      "url": "https://fmfib.bg/instrument/mikrokrediti-sies-spodelen-risk",
+      "status": "open",
+      "start_date": null,
+      "deadline": null,
+      "source": "fmfib",
+      "scraped_at": "2026-10-30T14:25:42.951539+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Фонд на фондовете (Fund of Funds)",
+      "countries": [
+        "BG"
+      ],
+      "description": "Активен финансов инструмент на Фонда на фондовете: Микрокрeдити със сподeлeн риск"
+    },
+    {
+      "id": "fmfib:fond-za-gradsko-razvitie-2014-2020",
+      "call_identifier": "fond-za-gradsko-razvitie-2014-2020",
+      "title": "Фонд за градско развитиe 2014-2020",
+      "summary": "Активен финансов инструмент на Фонда на фондовете: Фонд за градско развитиe 2014-2020",
+      "url": "https://fmfib.bg/instrument/fond-za-gradsko-razvitie-2014-2020",
+      "status": "open",
+      "start_date": null,
+      "deadline": null,
+      "source": "fmfib",
+      "scraped_at": "2026-10-30T14:25:42.951539+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Фонд на фондовете (Fund of Funds)",
+      "countries": [
+        "BG"
+      ],
+      "description": "Активен финансов инструмент на Фонда на фондовете: Фонд за градско развитиe 2014-2020"
+    },
+    {
+      "id": "fmfib:fond-predpriemacestvo-ranen-etap",
+      "call_identifier": "fond-predpriemacestvo-ranen-etap",
+      "title": "Фонд Предприемачество - Ранен етап",
+      "summary": "Активен финансов инструмент на Фонда на фондовете: Фонд Предприемачество - Ранен етап",
+      "url": "https://fmfib.bg/instrument/fond-predpriemacestvo-ranen-etap",
+      "status": "open",
+      "start_date": null,
+      "deadline": null,
+      "source": "fmfib",
+      "scraped_at": "2026-10-30T14:25:42.951539+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Фонд на фондовете (Fund of Funds)",
+      "countries": [
+        "BG"
+      ],
+      "description": "Активен финансов инструмент на Фонда на фондовете: Фонд Предприемачество - Ранен етап"
+    },
+    {
+      "id": "fmfib:fond-predpriemacestvo-riskov-kapital",
+      "call_identifier": "fond-predpriemacestvo-riskov-kapital",
+      "title": "Фонд Предприемачество - Рисков капитал",
+      "summary": "Активен финансов инструмент на Фонда на фондовете: Фонд Предприемачество - Рисков капитал",
+      "url": "https://fmfib.bg/instrument/fond-predpriemacestvo-riskov-kapital",
+      "status": "open",
+      "start_date": null,
+      "deadline": null,
+      "source": "fmfib",
+      "scraped_at": "2026-10-30T14:25:42.951539+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Фонд на фондовете (Fund of Funds)",
+      "countries": [
+        "BG"
+      ],
+      "description": "Активен финансов инструмент на Фонда на фондовете: Фонд Предприемачество - Рисков капитал"
+    },
+    {
+      "id": "fmfib:fond-predpriemacestvo",
+      "call_identifier": "fond-predpriemacestvo",
+      "title": "Фонд Предприемачество - Растеж",
+      "summary": "Активен финансов инструмент на Фонда на фондовете: Фонд Предприемачество - Растеж",
+      "url": "https://fmfib.bg/instrument/fond-predpriemacestvo",
+      "status": "open",
+      "start_date": null,
+      "deadline": null,
+      "source": "fmfib",
+      "scraped_at": "2026-10-30T14:25:42.951539+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Фонд на фондовете (Fund of Funds)",
+      "countries": [
+        "BG"
+      ],
+      "description": "Активен финансов инструмент на Фонда на фондовете: Фонд Предприемачество - Растеж"
+    },
+    {
+      "id": "fmfib:fond-inovacii-v-predpriiatiiata",
+      "call_identifier": "fond-inovacii-v-predpriiatiiata",
+      "title": "Фонд Иновации в предприятията",
+      "summary": "Активен финансов инструмент на Фонда на фондовете: Фонд Иновации в предприятията",
+      "url": "https://fmfib.bg/instrument/fond-inovacii-v-predpriiatiiata",
+      "status": "open",
+      "start_date": null,
+      "deadline": null,
+      "source": "fmfib",
+      "scraped_at": "2026-10-30T14:25:42.951539+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Фонд на фондовете (Fund of Funds)",
+      "countries": [
+        "BG"
+      ],
+      "description": "Активен финансов инструмент на Фонда на фондовете: Фонд Иновации в предприятията"
+    },
+    {
+      "id": "fmfib:fond-za-texnologicen-transfer-1",
+      "call_identifier": "fond-za-texnologicen-transfer-1",
+      "title": "Фонд за технологичен трансфер",
+      "summary": "Активен финансов инструмент на Фонда на фондовете: Фонд за технологичен трансфер",
+      "url": "https://fmfib.bg/instrument/fond-za-texnologicen-transfer-1",
+      "status": "open",
+      "start_date": null,
+      "deadline": null,
+      "source": "fmfib",
+      "scraped_at": "2026-10-30T14:25:42.951539+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Фонд на фондовете (Fund of Funds)",
+      "countries": [
+        "BG"
+      ],
+      "description": "Активен финансов инструмент на Фонда на фондовете: Фонд за технологичен трансфер"
+    },
+    {
+      "id": "fmfib:fondove-za-digitalizaciia",
+      "call_identifier": "fondove-za-digitalizaciia",
+      "title": "Фонд Дигитализация",
+      "summary": "Активен финансов инструмент на Фонда на фондовете: Фонд Дигитализация",
+      "url": "https://fmfib.bg/instrument/fondove-za-digitalizaciia",
+      "status": "open",
+      "start_date": null,
+      "deadline": null,
+      "source": "fmfib",
+      "scraped_at": "2026-10-30T14:25:42.951539+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Фонд на фондовете (Fund of Funds)",
+      "countries": [
+        "BG"
+      ],
+      "description": "Активен финансов инструмент на Фонда на фондовете: Фонд Дигитализация"
+    },
+    {
+      "id": "fmfib:fond-za-startirashhi-predpriiatiia-na-studenti-i-doktoranti",
+      "call_identifier": "fond-za-startirashhi-predpriiatiia-na-studenti-i-doktoranti",
+      "title": "Фонд за стартиращи предприятия на студенти и докторанти",
+      "summary": "Активен финансов инструмент на Фонда на фондовете: Фонд за стартиращи предприятия на студенти и докторанти",
+      "url": "https://fmfib.bg/instrument/fond-za-startirashhi-predpriiatiia-na-studenti-i-doktoranti",
+      "status": "open",
+      "start_date": null,
+      "deadline": null,
+      "source": "fmfib",
+      "scraped_at": "2026-10-30T14:25:42.951539+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Фонд на фондовете (Fund of Funds)",
+      "countries": [
+        "BG"
+      ],
+      "description": "Активен финансов инструмент на Фонда на фондовете: Фонд за стартиращи предприятия на студенти и докторанти"
+    },
+    {
+      "id": "fmfib:fond-za-strategiceski-texnologii-i-otbrana",
+      "call_identifier": "fond-za-strategiceski-texnologii-i-otbrana",
+      "title": "Фонд за стратегически технологии и отбрана",
+      "summary": "Активен финансов инструмент на Фонда на фондовете: Фонд за стратегически технологии и отбрана",
+      "url": "https://fmfib.bg/instrument/fond-za-strategiceski-texnologii-i-otbrana",
+      "status": "open",
+      "start_date": null,
+      "deadline": null,
+      "source": "fmfib",
+      "scraped_at": "2026-10-30T14:25:42.951539+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Фонд на фондовете (Fund of Funds)",
+      "countries": [
+        "BG"
+      ],
+      "description": "Активен финансов инструмент на Фонда на фондовете: Фонд за стратегически технологии и отбрана"
+    },
+    {
+      "id": "fmfib:fond-za-ustoiciv-biznes-start",
+      "call_identifier": "fond-za-ustoiciv-biznes-start",
+      "title": "Фонд за устойчив бизнес старт",
+      "summary": "Активен финансов инструмент на Фонда на фондовете: Фонд за устойчив бизнес старт",
+      "url": "https://fmfib.bg/instrument/fond-za-ustoiciv-biznes-start",
+      "status": "open",
+      "start_date": null,
+      "deadline": null,
+      "source": "fmfib",
+      "scraped_at": "2026-10-30T14:25:42.951539+00:00",
+      "match_score": 0.0,
+      "matched_keywords": [],
+      "program": "Фонд на фондовете (Fund of Funds)",
+      "countries": [
+        "BG"
+      ],
+      "description": "Активен финансов инструмент на Фонда на фондовете: Фонд за устойчив бизнес старт"
+    }
+  ]
+}
