@@ -1,0 +1,75 @@
+{
+  "profile": "Your Company",
+  "scraped_at": "2026-10-30T14:35:16.296166+00:00",
+  "count": 2,
+  "matches": [
+    {
+      "id": "interreg:3247",
+      "call_identifier": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED) Mediterranean Multiprogramme Mechanism coordinated call",
+      "title": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED) Mediterranean Multiprogramme Mechanism coordinated call",
+      "summary": "Interreg EURO Mediterranean (EURO MED). Eligible: Bosnia and Herzegovina, Spain, France, Croatia, Italy, Malta, Portugal, Albania, Slovenia, Greece, Cyprus, Bulgaria. Themes: Better Governance, Greener Europe, Smarter Europe.",
+      "url": "https://interreg-euro-med.eu/en/call-7-mediterranean-multiprogramme-mechanism-coordinated-call/",
+      "status": "closed",
+      "start_date": "2026-09-01",
+      "deadline": "2026-09-30",
+      "source": "interreg",
+      "scraped_at": "2026-10-30T14:35:16.296166+00:00",
+      "match_score": 0.091,
+      "matched_keywords": [
+        "AI"
+      ],
+      "program": "Interreg EURO Mediterranean (EURO MED)",
+      "countries": [
+        "Bosnia and Herzegovina",
+        "Spain",
+        "France",
+        "Croatia",
+        "Italy",
+        "Malta",
+        "Portugal",
+        "Albania",
+        "Slovenia",
+        "Greece",
+        "Cyprus",
+        "Bulgaria",
+        "North Macedonia",
+        "Montenegro"
+      ],
+      "description": "Interreg EURO Mediterranean (EURO MED). Eligible: Bosnia and Herzegovina, Spain, France, Croatia, Italy, Malta, Portugal, Albania, Slovenia, Greece, Cyprus, Bulgaria. Themes: Better Governance, Greener Europe, Smarter Europe."
+    },
+    {
+      "id": "interreg:3406",
+      "call_identifier": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)Call 8 Thematic projects",
+      "title": "2021 - 2027 Interreg VI-B EURO Mediterranean (EURO MED)Call 8 Thematic projects",
+      "summary": "Interreg EURO Mediterranean (EURO MED). Eligible: Bosnia and Herzegovina, Spain, France, Croatia, Italy, Malta, Portugal, Albania, Slovenia, Greece, Cyprus, Bulgaria. Themes: Better Governance, Greener Europe, Smarter Europe.",
+      "url": "https://interreg-euro-med.eu/en/call-8-thematic-projects/",
+      "status": "open",
+      "start_date": "2026-10-01",
+      "deadline": "2026-11-13",
+      "source": "interreg",
+      "scraped_at": "2026-10-30T14:35:16.296166+00:00",
+      "match_score": 0.091,
+      "matched_keywords": [
+        "AI"
+      ],
+      "program": "Interreg EURO Mediterranean (EURO MED)",
+      "countries": [
+        "Bosnia and Herzegovina",
+        "Spain",
+        "France",
+        "Croatia",
+        "Italy",
+        "Malta",
+        "Portugal",
+        "Albania",
+        "Slovenia",
+        "Greece",
+        "Cyprus",
+        "Bulgaria",
+        "North Macedonia",
+        "Montenegro"
+      ],
+      "description": "Interreg EURO Mediterranean (EURO MED). Eligible: Bosnia and Herzegovina, Spain, France, Croatia, Italy, Malta, Portugal, Albania, Slovenia, Greece, Cyprus, Bulgaria. Themes: Better Governance, Greener Europe, Smarter Europe."
+    }
+  ]
+}
