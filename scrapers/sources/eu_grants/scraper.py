@@ -40,6 +40,10 @@ PROGRAMMES = (
     ("ISF", "Internal Security Fund"),
     ("BMVI", "Border Management and Visa Instrument"),
     ("EMFAF", "European Maritime, Fisheries and Aquaculture Fund"),
+    ("ERC", "European Research Council"),
+    ("EURATOM", "Euratom"),
+    ("I3", "Interregional Innovation Investments"),
+    ("JTM", "Just Transition Mechanism"),
 )
 STATUS = {"31094501": "upcoming", "31094502": "open", "31094503": "closed"}
 
@@ -68,21 +72,39 @@ def score_match(text: str, profile: dict) -> tuple[float, list[str]]:
     return round(min(1.0, (len(hits) + bonus) / len(keywords)), 3), hits
 
 
-def fetch_page(page: int, page_size: int = 50) -> dict:
+# (text, types, max_pages, required identifier prefix or None)
+# languages=["en"] avoids one row per translation. Prefix filters drop fuzzy hits.
+QUERIES = (
+    ("***", ["1"], 6, None),             # open/forthcoming topics across programmes
+    ("HORIZON-EIC", ["1"], 6, "HORIZON-EIC"),
+    ("HORIZON-EIE", ["1"], 3, "HORIZON-EIE"),
+    ("CREA", ["1"], 2, "CREA"),
+    ("ERASMUS", ["1"], 3, "ERASMUS"),
+    ("CEF", ["1"], 2, "CEF"),
+    ("DIGITAL-", ["1"], 4, "DIGITAL"),
+    ("***", ["8"], 4, None),             # calls (LIFE, Digital Europe, CEF, ...)
+    ("LIFE", ["8"], 2, "LIFE"),
+)
+
+
+def fetch_page(text: str, types: list[str], page: int, page_size: int = 50) -> dict:
     query = {
         "bool": {
             "must": [
-                {"terms": {"type": ["1"]}},
+                {"terms": {"type": types}},
                 {"terms": {"status": ["31094501", "31094502"]}},
                 {"range": {"deadlineDate": {"gte": TODAY + "T00:00:00.000Z"}}},
             ]
         }
     }
-    files = {"query": ("query.json", json.dumps(query), "application/json")}
+    files = {
+        "query": ("query.json", json.dumps(query), "application/json"),
+        "languages": ("languages.json", json.dumps(["en"]), "application/json"),
+    }
     data = {"pageSize": str(page_size), "pageNumber": str(page)}
     resp = requests.post(
         API_URL,
-        params={"apiKey": API_KEY, "text": "***"},
+        params={"apiKey": API_KEY, "text": text},
         data=data,
         files=files,
         timeout=60,
@@ -134,27 +156,40 @@ def extract(raw: dict, profile: dict, scraped_at: str) -> dict:
     }
 
 
-def main(max_pages: int = 2) -> int:
+def main() -> int:
     profile = load_profile()
     scraped_at = datetime.now(timezone.utc).isoformat()
     matches: list[dict] = []
     seen: set[str] = set()
-    for page in range(1, max_pages + 1):
-        print(f"Fetching SEDIA grants page {page}...")
-        results = fetch_page(page).get("results") or []
-        if not results:
-            break
-        for raw in results:
-            opp = extract(raw, profile, scraped_at)
-            if not opp["id"] or opp["id"] in seen:
-                continue
-            if not opp["deadline"] or opp["deadline"] < TODAY:
-                continue
-            seen.add(opp["id"])
-            matches.append(opp)
-        if len(results) < 50:
-            break
+    for text, types, pages, prefix in QUERIES:
+        for page in range(1, pages + 1):
+            print(f"Fetching SEDIA text={text!r} type={types} page {page}...")
+            try:
+                results = fetch_page(text, types, page).get("results") or []
+            except requests.RequestException as exc:
+                print(f"  request failed: {exc}")
+                break
+            if not results:
+                break
+            added = 0
+            for raw in results:
+                opp = extract(raw, profile, scraped_at)
+                ident = str(opp["id"] or "")
+                if not ident or ident in seen:
+                    continue
+                if prefix and not ident.startswith(prefix):
+                    continue
+                if not opp["deadline"] or opp["deadline"] < TODAY:
+                    continue
+                seen.add(ident)
+                matches.append(opp)
+                added += 1
+            print(f"  kept {added}")
+            if len(results) < 50:
+                break
     matches.sort(key=lambda x: (x["deadline"] or "9999", -x["match_score"]))
+    from collections import Counter
+    print("Programmes:", dict(Counter(m.get("program") for m in matches)))
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     payload = {
         "profile": profile.get("name", "Your Company"),
